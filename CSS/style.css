@@ -1,0 +1,256 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+hr{
+  width: 100%;
+}
+
+h5{
+  font-size: 10.58px;
+  font-weight: 700;
+  line-height: 10.58px;
+  color: grey;
+}
+
+/* top section */
+.top {
+  background-color: black;
+  padding-top: 10px;
+}
+
+.grey {
+  color: grey;
+  display: inline-flex;
+  margin-left: 100px;
+}
+
+.greeting {
+  padding-left: 50px;
+}
+
+.contact {
+  position: absolute;
+  right: 200px;
+}
+
+.facebook-logo {
+  position: absolute;
+  right: 120px;
+  color: #fff;
+  float: right;
+}
+
+.instagram-logo {
+  position: absolute;
+  right: 150px;
+  color: #fff;
+  float: right;
+}
+
+.contactlink {
+  color: white;
+}
+
+/* Navigation Bar */
+.middle{
+  padding: 10px 100px;
+}
+
+
+
+.search {
+  position: absolute;
+  right: 150px;
+  width: 500px;
+}
+
+.cart{
+  position: absolute;
+  right: 50px;
+  padding-right: 10px;
+}
+
+.user{
+  position: absolute;
+  right: 30px;
+  padding-left: 10px;
+}
+
+/* carousel */
+
+.custom-carousel{
+  padding-bottom: 5%;
+
+}
+
+
+/* about us */
+
+.about-us{
+  text-align: center;
+}
+
+.about-content{
+  padding: 0 10%;
+}
+
+/* cards */
+
+.three-cards{
+  padding-top: 2%;
+}
+.card1{
+  position: relative;
+}
+.button-color{
+  background-color: #FF6600;
+}
+
+.txt-over{
+  text-align: center;
+  width: 229.31px;
+  height: 174.71px;
+  background-color: #EFD6E1;
+  top: 80px;
+  left: 70px;
+  opacity: 0.93;
+}
+
+.conten-ovr{
+  color: #E30E51;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 34px;
+}
+
+/* Shopping section */
+
+.boldtxt{
+  padding-top: 5%;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+}
+
+.shop{
+  padding-top: 5%;
+}
+
+.ctg-btn{
+  margin: 10px 30px 0 10px;
+  height: 58.973140716552734px;
+  width: 196.640869140625px;
+  border-radius: 5px;
+  background-color: #FFF0F4;
+  color: #FF6600;
+  border-style: none;
+
+}
+
+.ctg-btn:hover{
+  background-color: #FF6600;
+  color: #fff;
+}
+
+
+.products{
+  padding-top: 40px;
+}
+
+.stock{
+  font-size: 10px;
+  font-weight: 400;
+  color: #0156FF;
+}
+
+.prod-sizes{
+  Width: 169.71px;
+  Height: 249.87px;
+  position: relative;
+  border-style: none;
+}
+.prod-img{
+  position: absolute;
+  right: 30.69px;
+  top: 18.78px;
+  Width: 108.33px;
+  Height: 108.33px;
+
+}
+
+.col-half-offset{
+    margin-left: 2.5%;
+}
+
+.price-slashed{
+  position: absolute;
+  top: 195.71px;
+  text-decoration: line-through;
+  font-size: 13px;
+  font-weight: 600;
+  color: grey;
+}
+
+.price{
+  position: absolute;
+  top: 215px;
+}
+
+.card-head{
+  position: absolute;
+  top: 148.67px;
+  font-size: 9.39px;
+  line-height: 11.36px;
+  align-self: center;
+}
+
+.rating{
+  position: absolute;
+  display: inline;
+  top: 126px;
+  left: 16px;
+}
+
+.prod-reviews{
+  display: inline;
+  color: #A2A6B0;
+  font-size: 10px;
+  font-weight: 400;
+}
+
+
+.page-reviews{
+  Width: 1061.37px;
+  Height: 283.64px;
+  background-color: #F5F7FF;
+  /* position: absolute;
+  left: 170px;
+  right: 197.21px; */
+  margin: 40px 0 120px 70px;
+}
+
+
+
+.bottom{
+  background-color: #000;
+  color: #fff;
+}
+
+.subscribe{
+  padding-bottom: 20px;
+}
+
+.bottom li{
+  font-size: 9.83px;
+}
+
+.last-line{
+  display: inline-flex;
+}
+
+.payment-logo{
+  position: absolute;
+  right: 680px;
+}
